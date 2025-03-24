@@ -1,9 +1,39 @@
-# 👋 Olá, visitante!
+# 👋 Olá, visitante!  
 
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
+Seja bem-vindo(a)! Não sei exatamente como você chegou aqui, mas vou aproveitar a oportunidade para compartilhar um pouco sobre mim.  
 
-## 🌟 Informações Públicas
+## ✨ Sobre mim  
+Meu nome é **Brendha Michels**, sou **Analista de Qualidade de Software (QA)** com **8 anos de experiência**, sendo 5 focados em **gestão da qualidade utilizando metodologias ágeis**. Tenho ampla experiência em **testes manuais e automatizados**, além de um forte conhecimento em diversas ferramentas de automação.  
 
-Meu nome é **Brendha**. Atualmente, moro em **Guaratuba, Brasil** e meu objetivo é aumentar o conhecimento com a garantia de qualidade e automação de testes. 🚀
+Atualmente moro em **Guaratuba, Brasil** 🇧🇷 e meu objetivo é **aprimorar constantemente meus conhecimentos na área de qualidade de software**. 🚀  
 
+---
 
+## 🛠️ Habilidades e Tecnologias  
+💻 **Linguagens:** Java, JavaScript, TypeScript, Python  
+🧪 **Testes:** Selenium, Cypress, JUnit, Cucumber, RestAssured, Robot Framework  
+🌐 **Desenvolvimento Web:** Node.js, ReactJS, .NET  
+📊 **Testes API & Performance:** Postman, SoapUI, JMeter  
+📂 **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+☁ **Cloud & DevOps:** Google Cloud, Microsoft Azure, GitLab  
+📌 **Ferramentas:** Jira, Azure DevOps, GitLab, Trello, ClickUp  
+🚀 **Metodologias:** Scrum, Kanban  
+🌍 **Idiomas:** Português (nativo), Inglês (avançado), Espanhol (intermediário)  
+
+---
+
+## 📈 Experiência Profissional  
+💼 **Atual:** QA Pleno na GetConnect (desde 03/2024)  
+💼 **Experiências anteriores:** MJV (Bradesco Seguros), WePayments, Car10, Meplis Tecnologia em Saúde  
+
+📝 Mais detalhes sobre minha trajetória no meu [LinkedIn](https://www.linkedin.com/in/brendha-ramos)  
+
+---
+
+## 📚 Formação Acadêmica  
+🎓 **Bacharelado em Sistemas de Informação** - PUCPR (2021)  
+🎓 **Pós-graduação em Teste e Qualidade de Software** - UNIFAEL (Em andamento, conclusão em 2025)  
+
+--- 
+
+Vamos nos conectar e trocar conhecimento! 😃🚀  
