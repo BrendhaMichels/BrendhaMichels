@@ -22,10 +22,6 @@ Atualmente moro em **Guaratuba, Brasil** 🇧🇷 e meu objetivo é **aprimorar 
 
 ---
 
-## 📈 Experiência Profissional  
-💼 **Atual:** QA Pleno na GetConnect (desde 03/2024)  
-💼 **Experiências anteriores:** MJV (Bradesco Seguros), WePayments, Car10, Meplis Tecnologia em Saúde  
-
 📝 Mais detalhes sobre minha trajetória no meu [LinkedIn](https://www.linkedin.com/in/brendha-ramos)  
 
 ---
