@@ -3,7 +3,7 @@
 Seja bem-vindo(a)! Não sei exatamente como você chegou aqui, mas vou aproveitar a oportunidade para compartilhar um pouco sobre mim.  
 
 ## ✨ Sobre mim  
-Meu nome é **Brendha Michels**, sou **Analista de Qualidade de Software (QA)** com **8 anos de experiência**, sendo 5 focados em **gestão da qualidade utilizando metodologias ágeis**. Tenho ampla experiência em **testes manuais e automatizados**, além de um forte conhecimento em diversas ferramentas de automação.  
+Meu nome é **Brendha Michels**, sou **Analista de Qualidade de Software (QA)** há mais de 5 anos. Tenho ampla experiência em **testes manuais e automatizados**, além de um forte conhecimento em diversas ferramentas de automação.  
 
 Atualmente moro em **Guaratuba, Brasil** 🇧🇷 e meu objetivo é **aprimorar constantemente meus conhecimentos na área de qualidade de software**. 🚀  
 
@@ -28,7 +28,7 @@ Atualmente moro em **Guaratuba, Brasil** 🇧🇷 e meu objetivo é **aprimorar 
 
 ## 📚 Formação Acadêmica  
 🎓 **Bacharelado em Sistemas de Informação** - PUCPR (2021)  
-🎓 **Pós-graduação em Teste e Qualidade de Software** - UNIFAEL (Em andamento, conclusão em 2025)  
+🎓 **Pós-graduação em Teste e Qualidade de Software** - UNIFAEL (2025)  
 
 --- 
 
